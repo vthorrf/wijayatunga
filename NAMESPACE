@@ -1,0 +1,11 @@
+#exportPattern("^[[:alpha:]]+")
+
+export(wcor)
+export(wcor.test)
+
+importFrom("copula", "indepCopula", "rCopula")
+importFrom("combinat", "permn")
+importFrom("infotheo", "mutinformation", "entropy")
+
+importFrom("stats", "chisq.test", "cor")
+importFrom("utils", "setTxtProgressBar", "txtProgressBar")

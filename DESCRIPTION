@@ -1,0 +1,19 @@
+Package: wijayatunga
+Type: Package
+Title: Calculates Wijayatunga Coefficient
+Version: 0.1.0
+Year: 2021, January
+Author: Vithor Rosa Franco <vithorfranco@gmail.com>
+Maintainer: Vithor Rosa Franco <vithorfranco@gmail.com>
+Description: This package is used to calculate the dependence measure proposed by
+             Wijayatunga (2016), which generalizes Pearson's product-moment correlation
+             to measure non-linear dependence between categorical variables.
+             A function for a permutation test to get p-values are also provided.
+Depends: R (>= 4.0.0)
+Imports: copula (>= 0.999-20),
+         combinat (>= 0.0-8),
+         infotheo (>= 1.2.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/vthorrf/wijayatunga
