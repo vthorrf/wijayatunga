@@ -1,7 +1,7 @@
 wijayatunga: Calculates the Wijayatunga coefficient
 =============
 
-This package was developed to calculate the measure proposed by Wijayatunga (2016).
+This package was developed to calculate the measure proposed by [Wijayatunga (2016)](https://arxiv.org/abs/1804.07937).
 
 wijayatunga depends on combinat and infotheo.
 
