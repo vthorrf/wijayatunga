@@ -2,6 +2,7 @@
 
 export(wcor)
 export(wcor.test)
+export(partial.w)
 
 importFrom("copula", "indepCopula", "rCopula")
 importFrom("combinat", "permn")
